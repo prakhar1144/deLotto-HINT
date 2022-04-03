@@ -4,7 +4,8 @@
 <hr>
 
 ## Description
-- A **decentralized, trustless, and automated** web app to play Lottery Games deployed on Polygon. It is **not** the normal Lottery dapp that is available all over youtube, we have made some important changes.
+- A **decentralized, trustless, and automated** web app to play Lottery Games deployed on Polygon. 
+> Note : It is **not** the normal Lottery dapp that is available all over youtube, we have made some important changes.
 - **Solidity** smart contracts
 - Used **chainlink** oracle for fetching random number
 - Used **Alchemy's** node to fetch read only data (Visiting user mayn't have metamask pre installed)
